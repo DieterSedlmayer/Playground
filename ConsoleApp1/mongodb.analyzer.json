@@ -1,0 +1,8 @@
+﻿{
+  "DefaultLinqVersion": "V3",
+  "OutputDriverVersion": true,
+  "OutputInternalExceptions": true,
+  "SendTelemetry": false,
+  "OutputInternalLogsToFile": true,
+  "LogFileName": "C:\\DEVELOPMENT\\ConsoleApp1\\crappy.log"
+}
